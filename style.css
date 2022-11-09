@@ -505,7 +505,7 @@ body{
         background: #E8EFF2;
         border-radius: 20px;
         margin-right: -200px;
-        
+        display: none;
     }
     .square-box-one{
         width: 255px;
@@ -513,6 +513,7 @@ body{
         background: #E8EFF2;
         border-radius: 20px;
         margin-left: -200px;
+        display: none;
     }
     .content{
         width: 100%;
