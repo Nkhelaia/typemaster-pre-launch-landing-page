@@ -369,7 +369,6 @@ body{
     .logo{
         width: 65px;
         height: 65px;
-        background: #F16718;
         border-radius: 16px;
         display: flex;
         align-items: center;
@@ -725,7 +724,7 @@ body{
     .imgS{
         display: flex;
         justify-content: space-around;
-        margin-top: 150px;
+        margin-top: 250px;
     }
     .content-box .box{
         margin: 0;
